@@ -10,7 +10,7 @@
 	"require" : {
 		"guzzlehttp/guzzle" : "~7.3",
 		"christian-riesen/base32" : "~1.6",
-		"paragonie/sodium_compat" : "~1.17",
+		"paragonie/sodium_compat" : "^2.1",
 		"phpseclib/phpseclib" : "^3.0",
 		"yosymfony/toml" : "~1.0",
       	"ext-bcmath": "*",
