@@ -4,7 +4,7 @@ namespace Soneso\StellarSDKTests;
 
 use DateTime;
 use ParagonIE\ConstantTime\Encoding;
-use phpseclib3\Math\BigInteger;
+use phpseclib\Math\BigInteger;
 use PHPUnit\Framework\TestCase;
 use Soneso\StellarSDK\Crypto\KeyPair;
 use Soneso\StellarSDK\Crypto\StrKey;

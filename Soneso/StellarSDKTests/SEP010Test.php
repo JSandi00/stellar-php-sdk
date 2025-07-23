@@ -13,7 +13,7 @@ use GuzzleHttp\Client;
 use GuzzleHttp\Exception\GuzzleException;
 use GuzzleHttp\Handler\MockHandler;
 use InvalidArgumentException;
-use phpseclib3\Math\BigInteger;
+use phpseclib\Math\BigInteger;
 use PHPUnit\Framework\TestCase;
 use GuzzleHttp\Psr7\Response;
 use Soneso\StellarSDK\AbstractTransaction;

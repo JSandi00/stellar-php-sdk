@@ -6,7 +6,7 @@
 
 namespace Soneso\StellarSDK;
 
-use phpseclib3\Math\BigInteger;
+use phpseclib\Math\BigInteger;
 use Soneso\StellarSDK\Util\StellarAmount;
 use Soneso\StellarSDK\Xdr\XdrChangeTrustOperation;
 use Soneso\StellarSDK\Xdr\XdrOperationBody;

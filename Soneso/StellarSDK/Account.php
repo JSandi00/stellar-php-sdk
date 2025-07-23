@@ -7,7 +7,7 @@
 
 namespace Soneso\StellarSDK;
 
-use phpseclib3\Math\BigInteger;
+use phpseclib\Math\BigInteger;
 
 class Account implements TransactionBuilderAccount
 {

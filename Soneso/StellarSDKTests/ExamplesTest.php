@@ -2,7 +2,7 @@
 
 namespace Soneso\StellarSDKTests;
 
-use phpseclib3\Math\BigInteger;
+use phpseclib\Math\BigInteger;
 use PHPUnit\Framework\TestCase;
 use Soneso\StellarSDK\AccountMergeOperationBuilder;
 use Soneso\StellarSDK\AllowTrustOperationBuilder;

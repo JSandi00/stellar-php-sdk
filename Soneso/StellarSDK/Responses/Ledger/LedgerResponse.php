@@ -7,7 +7,7 @@
 
 namespace Soneso\StellarSDK\Responses\Ledger;
 
-use phpseclib3\Math\BigInteger;
+use phpseclib\Math\BigInteger;
 use Soneso\StellarSDK\Responses\Response;
 
 class LedgerResponse extends Response

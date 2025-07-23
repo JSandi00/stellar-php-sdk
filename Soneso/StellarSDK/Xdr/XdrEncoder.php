@@ -6,7 +6,7 @@
 
 namespace Soneso\StellarSDK\Xdr;
 
-use phpseclib3\Math\BigInteger;
+use phpseclib\Math\BigInteger;
 
 /**
  * See: https://tools.ietf.org/html/rfc4506

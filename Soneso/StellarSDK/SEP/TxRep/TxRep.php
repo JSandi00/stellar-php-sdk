@@ -9,7 +9,7 @@ namespace Soneso\StellarSDK\SEP\TxRep;
 use DateTime;
 use Exception;
 use InvalidArgumentException;
-use phpseclib3\Math\BigInteger;
+use phpseclib\Math\BigInteger;
 use Soneso\StellarSDK\AbstractOperation;
 use Soneso\StellarSDK\Account;
 use Soneso\StellarSDK\AccountMergeOperation;

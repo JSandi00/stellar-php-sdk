@@ -8,7 +8,7 @@
 
 namespace Soneso\StellarSDK\Xdr;
 
-use phpseclib3\Math\BigInteger;
+use phpseclib\Math\BigInteger;
 use Soneso\StellarSDK\Crypto\StrKey;
 
 class XdrLiquidityPoolWithdrawOperation

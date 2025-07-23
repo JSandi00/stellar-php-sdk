@@ -7,7 +7,7 @@
 namespace Soneso\StellarSDKTests;
 
 use DateTime;
-use phpseclib3\Math\BigInteger;
+use phpseclib\Math\BigInteger;
 use PHPUnit\Framework\TestCase;
 use RuntimeException;
 use Soneso\StellarSDK\Asset;

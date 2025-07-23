@@ -6,7 +6,7 @@
 
 namespace Soneso\StellarSDK;
 
-use phpseclib3\Math\BigInteger;
+use phpseclib\Math\BigInteger;
 use Soneso\StellarSDK\Xdr\XdrPreconditions;
 use Soneso\StellarSDK\Xdr\XdrPreconditionsV2;
 use Soneso\StellarSDK\Xdr\XdrPreconditionType;

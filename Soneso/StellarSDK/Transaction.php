@@ -9,7 +9,7 @@ namespace Soneso\StellarSDK;
 
 use Exception;
 use InvalidArgumentException;
-use phpseclib3\Math\BigInteger;
+use phpseclib\Math\BigInteger;
 use Soneso\StellarSDK\Crypto\KeyPair;
 use Soneso\StellarSDK\Util\Hash;
 use Soneso\StellarSDK\Xdr\XdrEncoder;

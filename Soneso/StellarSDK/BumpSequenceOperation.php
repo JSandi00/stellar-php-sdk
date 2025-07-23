@@ -6,7 +6,7 @@
 
 namespace Soneso\StellarSDK;
 
-use phpseclib3\Math\BigInteger;
+use phpseclib\Math\BigInteger;
 use Soneso\StellarSDK\Xdr\XdrBumpSequenceOperation;
 use Soneso\StellarSDK\Xdr\XdrOperationBody;
 use Soneso\StellarSDK\Xdr\XdrOperationType;

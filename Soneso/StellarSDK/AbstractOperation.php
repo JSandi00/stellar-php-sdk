@@ -7,7 +7,7 @@
 namespace Soneso\StellarSDK;
 
 use InvalidArgumentException;
-use phpseclib3\Math\BigInteger;
+use phpseclib\Math\BigInteger;
 use Soneso\StellarSDK\Util\StellarAmount;
 use Soneso\StellarSDK\Xdr\XdrOperation;
 use Soneso\StellarSDK\Xdr\XdrOperationBody;

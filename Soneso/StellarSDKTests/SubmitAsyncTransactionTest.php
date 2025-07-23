@@ -6,7 +6,7 @@
 
 namespace Soneso\StellarSDKTests;
 
-use phpseclib3\Math\BigInteger;
+use phpseclib\Math\BigInteger;
 use PHPUnit\Framework\TestCase;
 use Soneso\StellarSDK\Account;
 use Soneso\StellarSDK\BumpSequenceOperationBuilder;

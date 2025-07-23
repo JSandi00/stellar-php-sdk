@@ -6,7 +6,7 @@
 
 namespace Soneso\StellarSDK\Responses\Account;
 
-use phpseclib3\Math\BigInteger;
+use phpseclib\Math\BigInteger;
 use Soneso\StellarSDK\Crypto\KeyPair;
 use Soneso\StellarSDK\MuxedAccount;
 use Soneso\StellarSDK\Responses\Response;

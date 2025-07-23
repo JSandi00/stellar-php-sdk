@@ -7,7 +7,7 @@
 namespace Soneso\StellarSDK\Util;
 
 use Soneso\StellarSDK\Xdr\XdrBuffer;
-use phpseclib3\Math\BigInteger;
+use phpseclib\Math\BigInteger;
 
 
 class StellarAmount
