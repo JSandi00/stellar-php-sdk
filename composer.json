@@ -1,5 +1,5 @@
 {
-	"name" : "jsandi00/stellar-php-sdk",
+	"name" : "Soneso/stellar-php-sdk",
 	"description" : "Stellar PHP SDK for the Stellar Network",
 	"autoload" : {
 		"psr-4" : {
